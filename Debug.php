@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core;
+namespace cybox\cbxcore;
 
 /**
  * Class Debug
- * @package app\core
+ * @package cybox\cbxcore
  */
 class Debug
 {

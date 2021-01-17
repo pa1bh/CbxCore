@@ -1,13 +1,13 @@
 <?php
-namespace app\core\form;
+namespace cybox\cbxcore\form;
 
 
-use app\core\Model;
+use cybox\cbxcore\Model;
 use JetBrains\PhpStorm\Pure;
 
 /**
  * Class Form
- * @package app\core\form
+ * @package cybox\cbxcore\form
  */
 class Form
 {

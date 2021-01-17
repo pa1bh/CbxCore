@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace cybox\cbxcore\form;
 
 
-use app\core\Model;
+use cybox\cbxcore\Model;
 
 abstract class BaseField
 {

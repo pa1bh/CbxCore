@@ -1,13 +1,13 @@
 <?php
 
-namespace app\core;
+namespace cybox\cbxcore;
 
-use app\core\db\Database;
-use app\core\db\DbModal;
+use cybox\cbxcore\db\Database;
+use cybox\cbxcore\db\DbModal;
 
 /**
  * Class Application
- * @package app\core
+ * @package cybox\cbxcore
  */
 class Application
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace cybox\cbxcore;
 
 
 class Session

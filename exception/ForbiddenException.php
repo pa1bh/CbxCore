@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace cybox\cbxcore\exception;
 
 
 class ForbiddenException extends \Exception

@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace cybox\cbxcore\middlewares;
 
 /**
  * Class BaseMiddleware
- * @package app\core\middlewares
+ * @package cybox\cbxcore\middlewares
  */
 abstract class BaseMiddleware
 {

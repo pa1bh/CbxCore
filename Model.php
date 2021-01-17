@@ -1,13 +1,13 @@
 <?php
 
 
-namespace app\core;
+namespace cybox\cbxcore;
 
 use JetBrains\PhpStorm\ArrayShape;
 
 /**
  * Class Model
- * @package app\core
+ * @package cybox\cbxcore
  */
 abstract class Model
 {

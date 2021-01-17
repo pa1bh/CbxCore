@@ -1,11 +1,11 @@
 <?php
-namespace app\core;
+namespace cybox\cbxcore;
 
-use app\core\exception\NotFoundException;
+use cybox\cbxcore\exception\NotFoundException;
 
 /**
  * Class Router
- * @package app\core
+ * @package cybox\cbxcore
  */
 class Router
 {

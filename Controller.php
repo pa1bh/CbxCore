@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
+namespace cybox\cbxcore;
 
-use app\core\middlewares\BaseMiddleware;
+use cybox\cbxcore\middlewares\BaseMiddleware;
 
 class Controller
 {

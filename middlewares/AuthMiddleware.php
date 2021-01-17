@@ -1,12 +1,12 @@
 <?php
-namespace app\core\middlewares;
+namespace cybox\cbxcore\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use cybox\cbxcore\Application;
+use cybox\cbxcore\exception\ForbiddenException;
 
 /**
  * Class AuthMiddleware
- * @package app\core\middlewares
+ * @package cybox\cbxcore\middlewares
  */
 class AuthMiddleware extends BaseMiddleware
 {

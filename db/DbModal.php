@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace cybox\cbxcore\db;
 
-use app\core\Application;
-use app\core\Model;
+use cybox\cbxcore\Application;
+use cybox\cbxcore\Model;
 
 abstract class DbModal extends Model
 {

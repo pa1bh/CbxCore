@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\form;
+namespace cybox\cbxcore\form;
 
 
 class TextareaField extends BaseField

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace cybox\cbxcore\db;
 
 
-use app\core\Application;
+use cybox\cbxcore\Application;
 
 class Database
 {

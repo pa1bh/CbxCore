@@ -7,12 +7,5 @@
             "email": "bas@cybox.nl"
         }
     ],
-    "require": {},
-    "repositories": {
-        "private-packagist": {
-            "type": "composer",
-            "url": "https://repo.packagist.com/cybox/"
-        },
-        "packagist.org": false
-    }
+    "require": {}
 }

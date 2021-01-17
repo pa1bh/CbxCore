@@ -1,6 +1,7 @@
 {
     "name": "cybox/cbxcore",
     "description": "Proof of concept PHP framework",
+    "license": "MIT",
     "authors": [
         {
             "name": "Bas",
